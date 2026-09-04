@@ -21,6 +21,10 @@ VS 2008 VB.NET WinForms (.NET 3.5) working copy that on Form1 load constructs Lo
 
 Open `Hooks.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
