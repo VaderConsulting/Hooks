@@ -27,6 +27,7 @@ Open `Hooks.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `Hooks`.
 - **Assembly company:** Microsoft
 - **Assembly copyright:** Copyright © Microsoft 2010
 
